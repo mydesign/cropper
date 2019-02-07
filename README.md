@@ -5,6 +5,9 @@ Cropp images on upload
 Installation
 ------------
 
+ATTENTION!
+This widget NOT FOR DEVELOPMENT! JUST TEST!
+
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
 Either run
@@ -28,4 +31,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \mydesign\cropper\AutoloadExample::widget(); ?>```# cropper
+<?= \mydesign\cropper\Cropper::widget(); ?>```
