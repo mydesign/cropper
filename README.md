@@ -2,11 +2,13 @@ Cropper for images
 ==================
 Cropp images on upload
 
+ATTENTION!
+This widget NOT FOR DEVELOPMENT! JUST TEST!
+
 Installation
 ------------
 
-ATTENTION!
-This widget NOT FOR DEVELOPMENT! JUST TEST!
+
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
